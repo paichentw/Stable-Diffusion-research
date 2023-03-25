@@ -1,5 +1,5 @@
 # camenduru - Stable Diffusion install to Google Drive, and Run
 <https://github.com/camenduru/stable-diffusion-webui-colab/tree/drive>
 
-# Civitai - Stable Diffusion Model/Checkpoint, Lora, Pose, etc.
+# Civitai - Stable Diffusion Checkpoint Model, Lora, Pose, etc.
 <https://civitai.com/>
