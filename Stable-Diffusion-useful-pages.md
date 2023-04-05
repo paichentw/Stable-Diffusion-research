@@ -3,3 +3,6 @@
 
 # Civitai - Stable Diffusion Checkpoint Model, Lora, Pose, etc.
 <https://civitai.com/>
+
+# Pexels.com - Free video and photo material
+<https://pexels.com/>
