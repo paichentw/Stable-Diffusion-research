@@ -4,5 +4,8 @@
 # Civitai - Stable Diffusion Checkpoint Model, Lora, Pose, etc.
 <https://civitai.com/>
 
+# AITag.top - Pronpt dictionary
+<https://aitag.top>
+
 # Pexels.com - Free video and photo material
 <https://pexels.com/>
